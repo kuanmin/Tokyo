@@ -29,7 +29,7 @@
       - 2. 穿著建議：雖然可以穿便服，但不少遊客會穿著浴衣參加，能更融入現場的江戶祭典氛圍。
       - 3. 注意交管：祭典期間街道會實施車輛管制，請盡量利用大眾運輸工具前往。
    - [官網](https://shinagawa-shukuba-matsuri.tokyo/)
-   - 行程請看: [點我查看]()
+   - 行程請看: [點我查看](https://github.com/kuanmin/Tokyo/blob/main/readme_Shinagawa.md)
    - 2025年資訊:
       - [2025年的官網](https://shinagawa-shukuba-matsuri.tokyo/)
       - [2025年的官網2](https://shinagawa-kanko.or.jp/event/shukubamatsuri2025/)

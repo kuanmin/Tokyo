@@ -13,9 +13,12 @@
    - 上面這個官網會更新！看上面這個官網即可！
    - 以下是全日本的煙火活動追縱網
       - [全国の花火大会一覧](https://hanabi.walkerplus.com/list/)
-- 2025年9月27日（土）・28日（日）第32回「しながわ宿場まつり2025」，宿場祭。看看2026年的日期。
-   - [2025年的官網](https://shinagawa-shukuba-matsuri.tokyo/)
-   - [2025年的官網2](https://shinagawa-kanko.or.jp/event/shukubamatsuri2025/)
+- 第33回「しながわ宿場まつり2026」 (品川郵街祭)定於9月26日（週六）及27日（週日）舉行，為期兩天。
+   - [官網](https://shinagawa-shukuba-matsuri.tokyo/)
+   - 行程請看: 
+   - 2025年資訊:
+      - [2025年的官網](https://shinagawa-shukuba-matsuri.tokyo/)
+      - [2025年的官網2](https://shinagawa-kanko.or.jp/event/shukubamatsuri2025/)
 - 東京啤酒節，看看能否遇到！
 - 根津神社例大祭，再確認。
 - 「大眾藝能的聖地・淺草-NIGHT SHOW-」將於2025年12月5日～2026年9月27日期間，每週五、六、日，在淺草六區百老匯舉行。

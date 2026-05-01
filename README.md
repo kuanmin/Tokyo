@@ -15,7 +15,7 @@
       - [全国の花火大会一覧](https://hanabi.walkerplus.com/list/)
 - 第33回「しながわ宿場まつり2026」 (品川郵街祭)定於9月26日（週六）及27日（週日）舉行，為期兩天。
    - [官網](https://shinagawa-shukuba-matsuri.tokyo/)
-   - 行程請看: 
+   - 行程請看: [點我查看]()
    - 2025年資訊:
       - [2025年的官網](https://shinagawa-shukuba-matsuri.tokyo/)
       - [2025年的官網2](https://shinagawa-kanko.or.jp/event/shukubamatsuri2025/)

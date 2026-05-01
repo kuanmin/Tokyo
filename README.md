@@ -443,7 +443,7 @@
 - 「袋祭」始於1968年，是由池袋站西口的4個商店會發起並舉辦的祭典活動，今年將迎來第58屆。在神轎遊行中，將會有16座大神轎和數千人的抬手齊聚在池袋站西口附近。熱鬧的吆喝聲將響徹這座城市，喚醒觀眾的節日激動之心。
 - 在池袋西口公園還將舉辦歌謠表演和舞蹈表演，將有數家本地餐飲店在此出攤。遊客可一邊享受美食一邊感受節日氣氛。
 - 17:00、神轎（mikoshi）遊行、太鼓、小吃攤
-### 池袋活動 [點我查看](https://github.com/kuanmin/Kyoto/blob/main/Read_Ikebukoro.md)
+### 池袋活動 [點我查看](https://github.com/kuanmin/Tokyo/blob/main/Read_Ikebukoro.md)
 
 ### 🏨 入住 超讚飯店『JR東日本大都會大飯店 大井町TRACKS』
 - [點我看影片](https://www.youtube.com/watch?v=71WsU9nMKMI)

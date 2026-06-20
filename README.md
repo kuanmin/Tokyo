@@ -10,7 +10,7 @@
 - 皇居: 提前7月1日確認是否開放8月全部日期。
 - 2026年の北区花火会は、9月26日（土）18時30分より荒川河川敷で開催される予定です。
    - [2026年的官網](https://hanabi-kita.com/)
-   - [地址](https://hanabi.walkerplus.com/detail/ar0313e322754/map.html)
+   - [地址](https://hanabi.walkerplus.com/detail/ar0313e322754/map.html) 
    - 以下是全日本的煙火活動追縱網
       - [全国の花火大会一覧](https://hanabi.walkerplus.com/list/)
 - 第33回「しながわ宿場まつり2026」 (品川郵街祭)定於9月26日（週六）及27日（週日）舉行，為期兩天。

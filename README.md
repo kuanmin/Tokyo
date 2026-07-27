@@ -57,6 +57,17 @@
       - 👉 通常是週末或特定日才有
       - 是目前金氏世界紀錄認證的「最大常設建築光雕」之一
 
+- 下北澤月亮藝術之夜2026
+   - [官網](https://moonartnightfes.com/overview/)
+
+- 大井賽馬場跳蚤市場
+   - [官網](https://tokyocheapo.com/zh-tw/events/ohi-racecourse-flea-market-zh_tw/20260927/)
+
+- 花園神社古董市集
+   - [官網](https://tokyocheapo.com/zh-tw/events/hanazono-antique-market-zh_tw/20260927/)
+
+
+
 ---
 # 📅 9/24（星期四）
 - ✈️ 帶著快樂的心情 ~ 從桃園機場第 2 航廈，搭乘 華航 CI 0100，8:50 起飛賞櫻囉！  

@@ -6,7 +6,7 @@
 # 前置作業
 - 註冊 vjw，第一晚飯店地址: (哥哥媽媽 一組、旻旻媽媽 一組)
    - 2 Chome-7-26 Asakusa, Taito City, Tokyo 111-0032日本
-- shibuya sky: 提前2星期訂票
+- shibuya sky: 提前2星期訂票[網址](https://www.shibuya-scramble-square.com/sky/ticket/)
 - 皇居: 提前7月1日確認是否開放8月全部日期。
 - 2026年の北区花火会は、9月26日（土）18時30分より荒川河川敷で開催される予定です。
    - [2026年的官網](https://hanabi-kita.com/)

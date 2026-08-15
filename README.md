@@ -24,6 +24,13 @@
 
 # 活動新增
 - [淺草遊船 - 濱離宮](https://www.suijobus.co.jp/cruise/asakusa/)
+  - 無法提前預訂。
+  - 班次: 10:40 / 11:40 / 13:25 / 14:20
+  - 只能現場按機器買票。
+  - 早上8:30營業，所以一開門要去搶票。
+  - 船程約40分鐘
+
+
 - [東京晴空塔城 4樓天空競技場（Sky Arena）德國慕啤酒節](https://japan-attractions.jp/ja/alcohol/oktoberfest-tokyoskytreetown/)
  - 活動概況
       * 活動期間：2026年9月19日（六）～ 10月26日（一），風雨無阻（若遇惡劣天氣可能取消）。 

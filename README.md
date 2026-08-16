@@ -403,8 +403,9 @@
 ### 🎵 三得利音樂廳 Suntory Hall
 - [點我看影片](https://www.youtube.com/watch?v=N_wM6IIpTD8)
 - 被譽為「聲音的珠寶盒」，憑藉其世界級的葡萄園式聲學設計，為觀眾帶來頂級的聽覺享受。世界級音響、東京最頂級音樂廳。
-- [位置](https://github.com/kuanmin/Tokyo/blob/main/suntory-hall-map.png)
-- 
+- [入口在二樓](https://www.suntory.com/culture-sports/suntoryhall/map/pdf/ac_toho.pdf)
+- 主入口（Main Entrance）不在地面一樓，而是位於方舟之丘（Ark Hills）建築群的二樓（2F）卡拉揚廣場（Ark Karajan Place）。
+- 音樂廳採用了「下沉式」的盒中盒隔音建築結構。入口位置：位於 方舟之丘的 2 樓（2F） 戶外中庭廣場「卡拉揚廣場」。進入後的樓層：從 2 樓的大門檢票入場後，會直接身處於音樂廳的下層大廳（Lower Floor Foyer）。這裡連接了大會堂（Main Hall）的一樓座位區，以及小會堂（Blue Rose）。
 
 ### 東京都交響樂團（TMSO）的 第 419 回漫步音樂會（Promenade Concert No. 419） 
 - 於 2026 年 9 月 26 日 （週六）14:00 在 Suntory Hall 舉行。(座位: 2階 C9列 29番 到 32番)
